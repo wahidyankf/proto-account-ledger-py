@@ -102,6 +102,10 @@ Work lands directly on `main` as thematic Conventional Commits; there are no pul
 `test:quick`, `test:integration`, and `test:e2e` for every affected project. See [AGENTS.md](AGENTS.md) for the full
 agreement.
 
+## Contributing
+
+External contributions are currently closed. Forks remain welcome under the MIT license.
+
 ## License
 
 [MIT](LICENSE).
